@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="t_ng_2_s">Tổng 2 số</string>
+    <string name="th_ng_2_s">Thương 2 số</string>
+    <string name="t_ch_2_s">Tích 2 số</string>
+    <string name="c_c_ki_u_l_p_tr_nh_s_ki_n">Các kiểu lập trình sự kiện</string>
+    <string name="s_a">Số a:</string>
+    <string name="s_b">Số b:</string>
+    <string name="tho_t_ch_ng_tr_nh">Thoát chương trình</string>
+    <string name="ucln">UCLN</string>
+    <string name="hi_2_s">Hi 2 số</string>
+    <string name="vui_l_ng_nh_p">Vui lòng nhập</string>
+    <string name="vui_l_ng_nh_p1">Vui lòng nhập</string>
+</resources>

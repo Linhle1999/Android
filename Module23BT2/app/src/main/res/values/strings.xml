@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Module 2.3 BT2</string>
+    <string name="qu_n_l_s_n_ph_m">Quản lý sản phẩm</string>
+    <string name="danh_s_ch_s_n_ph_m_theo_danh_m_c">Danh sách sản phẩm theo danh mục</string>
+    <string name="danh_m_c">Danh mục:</string>
+    <string name="t_n_sp">Tên sp:</string>
+    <string name="nh_p_sp">Nhập SP</string>
+    <string name="vui_l_ng_nh_p_t_n_s_n_ph_m">Vui lòng nhập tên sản phẩm</string>
+    <string name="vui_l_ng_nh_p_m_s_n_ph_m">Vui lòng nhập mã sản phẩm</string>
+    <string name="m_sp">Mã sp:</string>
+</resources>

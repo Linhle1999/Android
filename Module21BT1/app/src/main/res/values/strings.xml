@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Module 2.1-BT1</string>
+    <string name="name">Name</string>
+    <string name="s_a">Số a:</string>
+    <string name="t_ng_2_s">Tổng 2 số</string>
+    <string name="s_b">Số b:</string>
+    <string name="hi_u_2_s">Hiệu 2 số</string>
+    <string name="t_ch_2_s">Tích 2 số</string>
+    <string name="c_chung_l_n_nh_t">Ước chung lớn nhất</string>
+    <string name="th_ng_2_s">Thương 2 số</string>
+    <string name="tho_t_ch_ng_tr_nh">Thoát chương trình</string>
+    <string name="vui_l_ng_nh_p">Vui lòng nhập</string>
+    <string name="vui_l_ng_nh_p1">Vui lòng nhập</string>
+    <string name="m_y_t_nh_c_ng_c_ng">Máy tính công cộng</string>
+</resources>

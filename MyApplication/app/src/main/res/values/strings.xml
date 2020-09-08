@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="kh_ng">Không</string>
+    <string name="c">Có</string>
+    <string name="c_u_h_i_1">Câu hỏi 1:</string>
+    <string name="send">Send</string>
+    <string name="enter_a_message">Enter a message</string>
+</resources>
